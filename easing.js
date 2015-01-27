@@ -28,6 +28,7 @@ easeLookup = {
   "easeInCirc": [ 0.6, 0.04, 0.98, 0.335 ],
   "easeOutCirc": [ 0.075, 0.82, 0.165, 1 ],
   "easeInOutCirc": [ 0.785, 0.135, 0.15, 0.86 ],
+  "iosScroll": [ 0.17, 0.37, 0.39, 0.99 ],
   linear: function (factor) {
     return factor;
   },
