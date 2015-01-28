@@ -1,6 +1,6 @@
 Package.describe({
   name: 'dispatch:interpolator',
-  version: '0.0.1',  
+  version: '0.0.2',  
   summary: 'Interpolate values from a to b over time',
   git: 'https://github.com/DispatchMe/meteor-interpolator.git'
 });
